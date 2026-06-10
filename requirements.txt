@@ -1,5 +1,0 @@
-streamlit
-anthropic
-requests
-python-docx
-extra-streamlit-components
